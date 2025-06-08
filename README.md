@@ -1,2 +1,2 @@
-# Fr-Fire-bypass-ip-block
+# Free-Fire-bypass-ip-block
 Caution this is only for education purpose 
